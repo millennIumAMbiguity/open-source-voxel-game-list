@@ -16,6 +16,7 @@ game Type:
 * Clone - Minecraft lookalike
 * Copy - Minecraft but with unique assets
 * Unique - Unsimilar to Minecraft
+* b1.7.3 - Minecraft beta 1.7.3
 
 ## C++ OpenGL
 
@@ -148,4 +149,19 @@ Performance: unknown\
   - Caves<br>
   - Ambient occlusion<br>
   - Fog<br>
+</details>
+
+## C#
+
+### [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft)
+Type: b1.7.3 copy\
+License: MIT\
+Performance: unknown\
+![image](https://github.com/user-attachments/assets/4d73a288-2ab2-4ff6-bc80-3ee9044eff2e)
+<details>
+  <summary>Features</summary>
+  - Procedural world generation<br>
+  - Structures<br>
+  - Ambient occlusion<br>
+  - Sunlight and torchlight<br>
 </details>
