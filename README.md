@@ -101,24 +101,6 @@ Performance: unknown ([video](https://youtu.be/piknGokM6rY?si=eNUm8k5XhEq_zFqc))
   - Importing Minecraft terrain<br>
 </details>
 
-## C# Unity
-
-### [Aidanhouk/Minecraft-Clone](https://github.com/Aidanhouk/Minecraft-Clone)
-Type: Classic copy\
-License: MIT\
-Performance: hitting the fps cap of 164 on AMD 5800X\
-![image](https://github.com/user-attachments/assets/bdd46ce0-7196-48f3-8f98-226decc46471)
-<details>
-  <summary>Features</summary>
-  - Procedural world generation<br>
-  - Structures<br>
-  - Ambient occlusion<br>
-  - Fog<br>
-  - World saving<br>
-</details>
-
-## Rust
-
 ### [MihailRis/VoxelEngine-Cpp](https://github.com/MihailRis/VoxelEngine-Cpp)
 Type: Classic copy\
 License: None\
@@ -135,4 +117,35 @@ Performance: unknown ([video](https://youtu.be/uzNZ2ve1Ir4?si=ANSC59dNdmXOa87F))
   - 3D items<br>
   - Fog<br>
   - Modding support<br>
+</details>
+
+## C# Unity
+
+### [Aidanhouk/Minecraft-Clone](https://github.com/Aidanhouk/Minecraft-Clone)
+Type: Classic copy\
+License: MIT\
+Performance: hitting the fps cap of 164 on AMD 5800X\
+![image](https://github.com/user-attachments/assets/bdd46ce0-7196-48f3-8f98-226decc46471)
+<details>
+  <summary>Features</summary>
+  - Procedural world generation<br>
+  - Structures<br>
+  - Ambient occlusion<br>
+  - Fog<br>
+  - World saving<br>
+</details>
+
+### [stalomeow/MinecraftClone-Unity](https://github.com/stalomeow/MinecraftClone-Unity)
+Type: Classic clone\
+License: MIT\
+Performance: unknown\
+![image](https://github.com/user-attachments/assets/57d2cb73-e7d5-4860-ac4e-88d2f4f370b6)
+<details>
+  <summary>Features</summary>
+  - Procedural world generation<br>
+  - Shaders
+  - Structures<br>
+  - Caves<br>
+  - Ambient occlusion<br>
+  - Fog<br>
 </details>
