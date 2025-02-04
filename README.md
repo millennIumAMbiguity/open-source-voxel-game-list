@@ -122,7 +122,7 @@ Performance: unknown ([video](https://youtu.be/uzNZ2ve1Ir4?si=ANSC59dNdmXOa87F))
 
 ## C# Unity
 
-### [Aidanhouk/Minecraft-Clone](https://github.com/Aidanhouk/Minecraft-Clone)
+### [savatkinv/VoxelGame](https://github.com/savatkinv/VoxelGame)
 Type: Classic copy\
 License: MIT\
 Performance: hitting the fps cap of 164 on AMD 5800X\
