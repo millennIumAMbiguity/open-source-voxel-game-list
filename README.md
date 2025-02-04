@@ -2,7 +2,7 @@
 List of open-source Minecraft clones and other 3D voxel games.
 
 The type has two parts: the style of gameplay and its similarity to Minecraft.\
-For example: Classic Copy\
+For example: Classic copy\
 Classic refers to Minecraft Classic, while Copy means the assets are not from Minecraft.
 
 Game styles:
@@ -104,7 +104,7 @@ Performance: unknown ([video](https://youtu.be/piknGokM6rY?si=eNUm8k5XhEq_zFqc))
 ## C# Unity
 
 ### [Aidanhouk/Minecraft-Clone](https://github.com/Aidanhouk/Minecraft-Clone)
-Type: Classic Copy\
+Type: Classic copy\
 License: MIT\
 Performance: hitting the fps cap of 164 on AMD 5800X\
 ![image](https://github.com/user-attachments/assets/bdd46ce0-7196-48f3-8f98-226decc46471)
@@ -115,4 +115,24 @@ Performance: hitting the fps cap of 164 on AMD 5800X\
   - Ambient occlusion<br>
   - Fog<br>
   - World saving<br>
+</details>
+
+## Rust
+
+### [MihailRis/VoxelEngine-Cpp](https://github.com/MihailRis/VoxelEngine-Cpp)
+Type: Classic copy\
+License: None\
+Performance: unknown ([video](https://youtu.be/uzNZ2ve1Ir4?si=ANSC59dNdmXOa87F))\
+![image](https://github.com/user-attachments/assets/3b6a3e2b-8efc-4609-8ce4-b3a9ed770bff)
+<details>
+  <summary>Features</summary>
+  - Procedural world generation<br>
+  - Structures<br>
+  - Breaking and placing blocks<br>
+  - Items can be dropped<br>
+  - Sunlight and torchlight<br>
+  - Ambient occlusion<br>
+  - 3D items<br>
+  - Fog<br>
+  - Modding support<br>
 </details>
