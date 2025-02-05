@@ -1,5 +1,10 @@
 # Open source voxel game list
-List of open-source Minecraft clones and other 3D voxel games.
+List of open-source Minecraft clones and other 3D voxel games.\
+A way to quickly see what has already been done in one convenient place.
+
+When submitting:\
+Images should be 640x360; performance should be measured in FPS with CPU model if known.\
+Preferred render settings are 1080p 512 block (32 chucks) render distance or more at default graphics settings.
 
 The type has two parts: the style of gameplay and its similarity to Minecraft.\
 For example: Classic copy\
@@ -88,8 +93,9 @@ Performance: 120 FPS in [video](https://youtu.be/0f0uH33X6ko?si=ahBfIbG4Z90P6vFe
   - Snow and rain<br>
   - Fog<br>
   - Surround sound and music<br>
-  - Vertical slabs
-  - Multiplayer
+  - Vertical slabs<br>
+  - Multiplayer<br>
+  - Mobs<br>
 </details>
 
 ### [4t-2/Cavegame](https://github.com/4t-2/Cavegame)
@@ -118,6 +124,26 @@ Performance: unknown ([video](https://youtu.be/uzNZ2ve1Ir4?si=ANSC59dNdmXOa87F))
   - 3D items<br>
   - Fog<br>
   - Modding support<br>
+</details>
+
+## Rust
+
+### [wolkenwelten/wolkenwelten-rs](https://github.com/wolkenwelten/wolkenwelten-rs)
+Type: Survival unique\
+License: AGPL-3.0\
+Performance: unknown\
+![image](https://github.com/user-attachments/assets/a51b5d81-c294-4624-8b9e-3fe7dc3aa869)
+<details>
+  <summary>Features</summary>
+  - Procedural world generation<br>
+  - Structures<br>
+  - Sunlight and torchlight<br>
+  - Ambient occlusion<br>
+  - Damage<br>
+  - Fog<br>
+  - Mobs<br>
+  - Breaking and placing blocks<br>
+  - Items can be dropped<br>
 </details>
 
 ## C# Unity
