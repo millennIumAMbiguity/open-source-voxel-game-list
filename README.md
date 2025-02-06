@@ -3,7 +3,8 @@ List of open-source Minecraft clones and other 3D voxel games.\
 A way to quickly see what has already been done in one convenient place.
 
 When submitting:\
-Images should be 640x360; performance should be measured in FPS with CPU model if known.\
+Images should be 640x360. If the image is taken from an online source, the image should be a link to that source.\
+Performance should be measured in FPS with a CPU model if it is known.\
 Preferred render settings are 1080p 512 block (32 chucks) render distance or more at default graphics settings.
 
 The type has two parts: the style of gameplay and its similarity to Minecraft.\
