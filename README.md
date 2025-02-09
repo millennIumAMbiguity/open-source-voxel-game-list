@@ -127,6 +127,18 @@ Performance: unknown ([video](https://youtu.be/uzNZ2ve1Ir4?si=ANSC59dNdmXOa87F))
   - Modding support<br>
 </details>
 
+### [Hopson97/open-builder](https://github.com/Hopson97/open-builder)
+Type: Classic copy\
+License: GPL-3.0\
+Performance: unknown [video](https://youtu.be/VQuN1RMEr1c?si=3kIdxsFeLxD7_lxz)\
+[![image](https://github.com/user-attachments/assets/21d79e64-7eb9-422b-9f88-d7be40564485)](https://camo.githubusercontent.com/fc5c6a21132584d07adea5958af5c6f36c65aaac161c4756ca08b32f54e70b2f/68747470733a2f2f692e696d6775722e636f6d2f46537a306957752e706e67)
+<details>
+  <summary>Features</summary>
+  - Procedural world generation<br>
+  - Structures<br>
+  - Greedy mesh<br>
+</details>
+
 ## Rust
 
 ### [wolkenwelten/wolkenwelten-rs](https://github.com/wolkenwelten/wolkenwelten-rs)
