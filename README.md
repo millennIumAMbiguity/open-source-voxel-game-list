@@ -32,7 +32,7 @@ game Type:
 Type: Survival clone\
 License: LGPL-2.1\
 Performance: unknown\
-[![image](https://github.com/user-attachments/assets/bd98c3b6-54bc-4ee0-83ff-536e1889e227)](https://content.luanti.org/uploads/idkUg8ETDf.jpg)
+[![image](https://github.com/user-attachments/assets/8311db22-824c-41e6-814f-1020581fd7c4)](https://content.luanti.org/uploads/idkUg8ETDf.jpg)
 <details>
   <summary>Features</summary>
   - Multiplayer<br>
