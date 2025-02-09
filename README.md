@@ -29,7 +29,7 @@ game Type:
 
 
 ### [uanti-org/luanti](https://github.com/luanti-org/luanti) (formerly Minetest)
-Type: Survival clone\
+Type: Normal+ copy\
 License: LGPL-2.1\
 Performance: unknown\
 [![image](https://github.com/user-attachments/assets/8311db22-824c-41e6-814f-1020581fd7c4)](https://content.luanti.org/uploads/idkUg8ETDf.jpg)
