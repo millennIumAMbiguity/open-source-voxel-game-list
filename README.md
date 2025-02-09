@@ -175,7 +175,7 @@ Performance: hitting the fps cap of 164 on AMD 5800X\
   - World saving<br>
 </details>
 
-### [stalomeow/MinecraftClone-Unity](https://github.com/stalomeow/MinecraftClone-Unity)
+### [stalomeow/MinecraftClone-Unity](https://github.com/stalomeow/MinecraftClone-Unity) (english translation [here](https://github.com/millennIumAMbiguity/MinecraftClone-Unity/blob/master/README.en.md))
 Type: Classic clone\
 License: MIT\
 Performance: unknown\
