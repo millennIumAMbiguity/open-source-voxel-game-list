@@ -26,6 +26,39 @@ game Type:
 
 ## C++ OpenGL
 
+
+
+### [uanti-org/luanti](https://github.com/luanti-org/luanti) (formerly Minetest)
+Type: Survival clone\
+License: LGPL-2.1\
+Performance: unknown\
+[![image](https://github.com/user-attachments/assets/bd98c3b6-54bc-4ee0-83ff-536e1889e227)](https://content.luanti.org/uploads/idkUg8ETDf.jpg)
+<details>
+  <summary>Features</summary>
+  - Multiplayer<br>
+  - Procedural world generation<br>
+  - Structures<br>
+  - Shaders<br>
+  - Biomes<br>
+  - Caves<br>
+  - Breaking and placing blocks<br>
+  - Mining tools with durability<br>
+  - Items can be dropped<br>
+  - Inventory<br>
+  - Crafting<br>
+  - Sunlight and torchlight<br>
+  - Ambient occlusion<br>
+  - Damage, hunger, and breathing<br>
+  - Eating<br>
+  - 3D items<br>
+  - Swimming<br>
+  - Sneaking<br>
+  - Day & night cycle<br>
+  - Snow and rain<br>
+  - Fog<br>
+  - Surround sound and music<br>
+</details>
+
 ### [Aidanhouk/Minecraft-Clone](https://github.com/Aidanhouk/Minecraft-Clone)
 Type: Survival clone\
 License: None\
