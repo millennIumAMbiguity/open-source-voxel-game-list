@@ -244,7 +244,7 @@ Performance: unknown\
 Type: Classic copy\
 License: None\
 Performance: unknown\
-![image](https://github.com/user-attachments/assets/64863a62-a50e-498a-a877-b14e0d25f44e)
+![image](https://github.com/user-attachments/assets/29ebb1d3-5ef9-438c-87b9-8955ea6e6be2)
 <details>
   <summary>Features</summary>
   - Procedural world generation<br>
