@@ -237,3 +237,20 @@ Performance: unknown\
   - Ambient occlusion<br>
   - Sunlight and torchlight<br>
 </details>
+
+## JavaScript
+
+### [NFT2626/VoxelCraft-2.0](https://github.com/NFT2626/VoxelCraft-2.0)
+Type: Classic copy\
+License: None\
+Performance: unknown\
+![image](https://github.com/user-attachments/assets/64863a62-a50e-498a-a877-b14e0d25f44e)
+<details>
+  <summary>Features</summary>
+  - Procedural world generation<br>
+  - Structures<br>
+  - Ambient occlusion<br>
+</details>
+
+
+
