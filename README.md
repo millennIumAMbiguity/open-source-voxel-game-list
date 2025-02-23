@@ -26,8 +26,6 @@ game Type:
 
 ## C++ OpenGL
 
-
-
 ### [uanti-org/luanti](https://github.com/luanti-org/luanti) (formerly Minetest)
 Type: Normal+ copy\
 License: LGPL-2.1\
@@ -253,4 +251,27 @@ Performance: unknown\
 </details>
 
 
+## Zig
 
+### [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz)
+Type: Survival+ copy\
+License: GPL-3.0\
+Performance: unknown\
+[![image](https://github.com/user-attachments/assets/b93ed861-61db-44ad-84b5-48a5735ff263)](https://youtu.be/cNob6LoleR0?si=rs-aKHvI0K-LBwqB)
+<details>
+  <summary>Features</summary>
+  - Multiplayer<br>
+  - Procedural world generation<br>
+  - Structures<br>
+  - Shaders<br>
+  - Biomes<br>
+  - Caves<br>
+  - Breaking and placing blocks<br>
+  - Items can be dropped<br>
+  - Inventory<br>
+  - Sunlight and torchlight<br>
+  - Ambient occlusion<br>
+  - Day & night cycle<br>
+  - Fog<br>
+  - RGB lights<br>
+</details>
