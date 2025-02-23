@@ -16,13 +16,13 @@ Game styles:
 * Creative - Creative with Hotbar with flying
 * Survival - Block breaking (where it takes time to break blocks) and health
 * Normal - Creative and Survival
+* b1.7.3 - Minecraft beta 1.7.3
 * Other
 
 game Type:
 * Clone - Minecraft lookalike
 * Copy - Minecraft but with unique assets
 * Unique - Unsimilar to Minecraft
-* b1.7.3 - Minecraft beta 1.7.3
 
 ## C++ OpenGL
 
