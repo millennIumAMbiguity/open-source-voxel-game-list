@@ -257,7 +257,7 @@ Performance: unknown\
 Type: Survival+ copy\
 License: GPL-3.0\
 Performance: unknown\
-[![image](https://github.com/user-attachments/assets/b93ed861-61db-44ad-84b5-48a5735ff263)](https://youtu.be/cNob6LoleR0?si=rs-aKHvI0K-LBwqB)
+[![image](https://github.com/user-attachments/assets/4112bad6-029a-471e-b045-aac6467c5af7)](https://youtu.be/cNob6LoleR0?si=rs-aKHvI0K-LBwqB)
 <details>
   <summary>Features</summary>
   - Multiplayer<br>
