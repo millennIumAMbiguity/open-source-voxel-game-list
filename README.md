@@ -221,6 +221,22 @@ Performance: unknown\
   - Fog<br>
 </details>
 
+### [tddebart/Minecraft-Unity](https://github.com/tddebart/Minecraft-Unity)
+Type: Survival- clone\
+License: None\
+Performance: unknown\
+[![image](https://github.com/user-attachments/assets/35e7224a-375e-4de0-ae85-58c6682ffc2f)](https://youtu.be/xWuzHTZZvcw?si=o6lfGE8z59BHmZFb)
+<details>
+  <summary>Features</summary>
+  - Procedural world generation<br>
+  - Structures<br>
+  - Caves<br>
+  - Inventory<br>
+  - Sunlight and torchlight<br>
+  - Ambient occlusion<br>
+  - Day & night cycle<br>
+</details>
+
 ## C#
 
 ### [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft)
