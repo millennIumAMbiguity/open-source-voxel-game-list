@@ -206,6 +206,25 @@ Performance: unknown\
   - Items can be dropped<br>
 </details>
 
+### [veloren/veloren](https://github.com/veloren/veloren)
+![Last commit](https://img.shields.io/github/last-commit/veloren/veloren)
+![License: AGPL-3.0](https://img.shields.io/github/license/veloren/veloren)
+![Stars](https://img.shields.io/github/stars/veloren/veloren)\
+Type: Survival unique\
+Performance: unknown\
+[![image](https://github.com/user-attachments/assets/b2757266-201a-4284-b20f-38df716349f5)](https://camo.githubusercontent.com/ae1bcce6ce503408632f097f3b8abcc159177c5e63eb2a063e5f9cfd6edad334/68747470733a2f2f73332e65752d63656e7472616c2d322e7761736162697379732e636f6d2f76656c6f72656e2d626c6f672f63646e2f3234372f76656c6f72656e5f6f6c642d6769746c61622d62616e6e65722e77656270)
+<details>
+  <summary>Features</summary>
+  - Procedural world generation<br>
+  - Structures<br>
+  - Sunlight and torchlight<br>
+  - Ambient occlusion<br>
+  - Damage<br>
+  - Fog<br>
+  - Mobs<br>
+  - Breaking and placing blocks<br>
+</details>
+
 ## C# Unity
 
 ### [savatkinv/VoxelGame](https://github.com/savatkinv/VoxelGame)
