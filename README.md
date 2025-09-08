@@ -295,12 +295,12 @@ Performance: unknown\
   - Sunlight and torchlight<br>
 </details>
 
-## JavaScript
+## JavaScript / TypeScript
 
-### [NFT2626/VoxelCraft-2.0](https://github.com/NFT2626/VoxelCraft-2.0)
-![Last commit](https://img.shields.io/github/last-commit/NFT2626/VoxelCraft-2.0)
-![License: None](https://img.shields.io/github/license/NFT2626/VoxelCraft-2.0)
-![Stars](https://img.shields.io/github/stars/NFT2626/VoxelCraft-2.0)\
+### [VoxelSrv/voxelsrv](https://github.com/VoxelSrv/voxelsrv) (play [here](http://voxelsrv-master.pb4.eu/))
+![Last commit](https://img.shields.io/github/last-commit/VoxelSrv/voxelsrv)
+![License: MIT](https://img.shields.io/github/license/VoxelSrv/voxelsrv)
+![Stars](https://img.shields.io/github/stars/VoxelSrv/voxelsrv)\
 Type: Classic copy\
 Performance: unknown\
 ![image](https://github.com/user-attachments/assets/29ebb1d3-5ef9-438c-87b9-8955ea6e6be2)
