@@ -280,6 +280,13 @@ Performance: unknown\
 
 ## C#
 
+### [Fazin85/betasharp](https://github.com/Fazin85/betasharp)
+![Last commit](https://img.shields.io/github/last-commit/Fazin85/betasharp)
+![License: MIT](https://img.shields.io/github/license/Fazin85/betasharp)
+![Stars](https://img.shields.io/github/stars/Fazin85/betasharp)\
+Type: b1.7.3 port\
+Performance: Better than Minecraft b1.7.3
+
 ### [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft)
 ![Last commit](https://img.shields.io/github/last-commit/ddevault/TrueCraft)
 ![License: MIT](https://img.shields.io/github/license/ddevault/TrueCraft)
