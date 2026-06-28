@@ -284,7 +284,7 @@ Performance: unknown\
 ![Stars](https://img.shields.io/github/stars/marceld23/BlocksBeyondTheStars)\
 Type: Unique survival/creative (space)\
 Performance: ~36 fps avg at 1080p on AMD Ryzen 9 PRO 7940HS (Radeon 780M iGPU), max view distance\
-[![image](images/blocks-beyond-the-stars.png)](https://github.com/marceld23/BlocksBeyondTheStars)
+[![image](https://github.com/user-attachments/assets/9d03c009-f8da-414f-a9b7-ddb2d546d953)](https://github.com/marceld23/BlocksBeyondTheStars)
 <details>
   <summary>Features</summary>
   - Procedural star systems, planets, moons & asteroid fields<br>
