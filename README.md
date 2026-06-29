@@ -278,6 +278,23 @@ Performance: unknown\
   - Day & night cycle<br>
 </details>
 
+### [marceld23/BlocksBeyondTheStars](https://github.com/marceld23/BlocksBeyondTheStars)
+![Last commit](https://img.shields.io/github/last-commit/marceld23/BlocksBeyondTheStars)
+![License: AGPL-3.0](https://img.shields.io/github/license/marceld23/BlocksBeyondTheStars)
+![Stars](https://img.shields.io/github/stars/marceld23/BlocksBeyondTheStars)\
+Type: Unique survival/creative (space)\
+Performance: ~36 fps avg at 1080p on AMD Ryzen 9 PRO 7940HS (Radeon 780M iGPU), max view distance\
+[![image](https://github.com/user-attachments/assets/9d03c009-f8da-414f-a9b7-ddb2d546d953)](https://github.com/marceld23/BlocksBeyondTheStars)
+<details>
+  <summary>Features</summary>
+  - Procedural star systems, planets, moons & asteroid fields<br>
+  - Authoritative .NET client/server multiplayer<br>
+  - Block-by-block ship & base building with in-game editors<br>
+  - System-scale flight between worlds and star systems<br>
+  - Creature taming, alliances & trading<br>
+  - Optional AI-driven story campaign (VEGA Protocol)<br>
+</details>
+
 ## C#
 
 ### [Fazin85/betasharp](https://github.com/Fazin85/betasharp)
