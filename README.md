@@ -297,10 +297,8 @@ Performance: ~36 fps avg at 1080p on AMD Ryzen 9 PRO 7940HS (Radeon 780M iGPU), 
 
 ## C#
 
-### [Fazin85/betasharp](https://github.com/Fazin85/betasharp)
-![Last commit](https://img.shields.io/github/last-commit/Fazin85/betasharp)
-![License: MIT](https://img.shields.io/github/license/Fazin85/betasharp)
-![Stars](https://img.shields.io/github/stars/Fazin85/betasharp)\
+### [betasharp-official/betasharp](https://git.gay/betasharp-official/betasharp)
+![License: MIT](https://img.shields.io/badge/license-MIT-g)
 Type: b1.7.3 port\
 Performance: Better than Minecraft b1.7.3
 
